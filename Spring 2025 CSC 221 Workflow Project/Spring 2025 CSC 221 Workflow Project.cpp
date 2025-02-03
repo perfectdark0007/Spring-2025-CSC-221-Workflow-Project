@@ -5,15 +5,13 @@
 using namespace std;
 int main()
 {
-	string name, address, phone;
-	name = "WILLIAM WOODARD";
-	address = "6 THOMAS, POQUOSON, VA"; 
-		phone = "757-868-6740";
-	cout << name << endl;
-	cout << address << endl;
-	cout << phone << endl;
+	int age = 39;
+	double weight = 175;
+	cout << " My age is " << age << " and my weight is " << weight <<
+		endl;
 	return 0;
 }
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
