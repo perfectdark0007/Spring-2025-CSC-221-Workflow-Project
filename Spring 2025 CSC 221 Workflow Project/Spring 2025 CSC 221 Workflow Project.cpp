@@ -7,10 +7,11 @@ int main()
 {
 	string name, address, phone;
 	name = "WILLIAM WOODARD";
-	address = "6 THOMAS, POQUOSON, VA"; 
-		phone = "757-868-6740";
+	address = "6 THOMAS, POQUOSON, VA";
+	phone = "757-868-6740";
 	cout << name << endl;
 	cout << address << endl;
 	cout << phone << endl;
 	return 0;
+}
 
